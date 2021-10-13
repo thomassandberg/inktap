@@ -22,6 +22,6 @@ https://github.com/thomassandberg/inktap/blob/main/Inktap_body.3mf
 Tap handle lid:
 https://github.com/thomassandberg/inktap/blob/main/Inktap_lid.3mf
 
-Glue is used to install the display inside the 3d printed handle.
+Hot glue is used to install the display inside the 3d printed handle.
 
 Video coming soon.
