@@ -16,6 +16,12 @@ https://www.aliexpress.com/item/1005001765602627.html?spm=a2g0o.cart.0.0.48543c0
 You'll also find the file for 3D printing the handle itself in this repo.
 This is the first version of the handle. Feel free to provide updated designs :)
 
+Tap handle body:
+https://github.com/thomassandberg/inktap/blob/main/Inktap_body.3mf
+
+Tap handle lid:
+
+
 Glue is used to install the display inside the 3d printed handle.
 
 Video coming soon.
