@@ -13,7 +13,7 @@ https://www.waveshare.com/wiki/4.2inch_NFC-Powered_e-Paper
 I use this 2.7" ePaper display:
 https://www.aliexpress.com/item/1005001765602627.html?spm=a2g0o.cart.0.0.48543c00AABHKz&mp=1
 
-You'll also find the file for 3D printing the handle itself in this repo.
+You also find the files for 3D printing the handle itself in this repo.
 This is the first version of the handle. Feel free to provide updated designs :)
 
 Tap handle body:
